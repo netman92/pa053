@@ -3,7 +3,7 @@ Homework 3
 
 Install:
 
-- test`pyenv venv`
+- `pyenv venv`
 - `source venv/bin/activate`
 - `pip install -r requirements.txt`
 - `python main.py` # runs webserver
